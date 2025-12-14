@@ -1,7 +1,7 @@
 # Panic Transmit – File Transfer Application
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/6771/l/transmit-logo.png?v=1669040857" width="250" alt="Panic Transmit Logo"/>  
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/44/d4/6144d4bb-4895-d08c-522f-d4225816dff6/Transmit-0-0-85-220-0-0-5-0-2x-P3.png/1200x630bb.png" width="250" alt="Panic Transmit Logo"/>  
 </div>  
 
 <br>  
